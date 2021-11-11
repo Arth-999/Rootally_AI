@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638124786188",
+    "firebase_url": "https://rootallyai-1fc13-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rootallyai-1fc13",
+    "storage_bucket": "rootallyai-1fc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638124786188:android:f448284d289aef5b37e429",
+        "android_client_info": {
+          "package_name": "co.Arth.rootally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638124786188-9viee5rhp14rscf7vomo5u6nidk89d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuPCjQ_CV6kiyG_-Ig3FU-XSzj2cawtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638124786188-9viee5rhp14rscf7vomo5u6nidk89d4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
